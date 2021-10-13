@@ -10,6 +10,8 @@
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=karmacarlos&count_private=true&show_icons=true&theme=cobalt2)
 ____________________________________________________________________________________________________________________________
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karmacarlos&layout=compact&show_icons=true&theme=cobalt2)
+____________________________________________________________________________________________________________________________
+![Carlos's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karmacarlos&show_icons=true&theme=cobalt2)
 
 
 
