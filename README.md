@@ -1,4 +1,4 @@
-# Hi there I'm Carlos
+# Hi there, I'm Carlos
 -----------------------
 
  I am a current student from the Turing School of Software & Design’s Front-End Engineering Program. I have previous experience in the restaurant and sales industry, and while that might not immediately seem like the most relevant thing to mention, it gave me the skills to work on a team to solve problems in high pressure situations.
