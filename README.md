@@ -7,11 +7,11 @@
  
  I’m particularly proud of the work that I did on this project to deploy our project to Digital Ocean (a new experience for our group that wasn’t taught or expected), and believe this pull request shows the care with which I work with teammates when we have different ideas about how to push our project forward.
 
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=karmacarlos&count_private=true&show_icons=true&theme=cobalt2)
+![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=karmacarlos&count_private=true&show_icons=true&theme=cobalt2&hide=stars)
 ____________________________________________________________________________________________________________________________
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karmacarlos&layout=compact&show_icons=true&theme=cobalt2)
 ____________________________________________________________________________________________________________________________
-![Carlos's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karmacarlos&show_icons=true&theme=cobalt2)
+
 
 
 
