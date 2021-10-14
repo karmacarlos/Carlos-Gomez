@@ -5,7 +5,7 @@
 
  I’m hoping to join a team where I’ll have an opportunity to continue growing and be exposed to new challenges. I have a particular passion for optimizing and improving current products, but I’m excited to explore all of the different ways I can help to make things happen. I’m curious by nature, and there’s so much that I still want to learn and see. I’m mostly excited to take the skills I’ve learned and start putting them to use.
  
- I’m particularly proud of the work that I did on this project to deploy our project to Digital Ocean (a new experience for our group that wasn’t taught or expected), and believe this pull request shows the care with which I work with teammates when we have different ideas about how to push our project forward.
+ I’m particularly proud of the work that I did on this project to deploy our project to Rancid Tomatillos (a new experience for our group that wasn’t taught or expected), and believe this pull [request]() shows the care with which I work with teammates when we have different ideas about how to push our project forward.
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=karmacarlos&count_private=true&show_icons=true&theme=cobalt2&hide=stars)
 ____________________________________________________________________________________________________________________________
