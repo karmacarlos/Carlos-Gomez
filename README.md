@@ -11,7 +11,7 @@ I am passionate about the client experience. I approach my work through the lens
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=karmacarlos&count_private=true&show_icons=true&theme=cobalt2&hide=stars)
 ____________________________________________________________________________________________________________________________
 
-![img]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
+![img](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 Feel free to reach out to me at carlos.gomezdw@gmail.com
 
